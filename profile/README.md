@@ -1,1 +1,1 @@
-![Banner preview](./banner.png)
+![Banner preview](./bannerNew.png)
