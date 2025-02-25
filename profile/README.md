@@ -1,1 +1,0 @@
-![Banner preview](./banner.png)
