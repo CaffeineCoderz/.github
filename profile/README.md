@@ -22,13 +22,6 @@ A játékban kétféle szerepkörben lehet játszani:
 ## 🛠️ Technológiai háttér
 - **Nyelv:** Java
 - **Fejlesztés:** GitHub szervezeti repóban dolgozunk, csapatmunkára optimalizálva
-- **Felhasznált technológiák:**
-  - Swing / JavaFX a GUI megvalósítására
-  - Adatkezeléshez és szimulációhoz a Java gyűjteménykezelő rendszere
-  - Fájlkezelés JSON/XML formátumban
-  - JUnit tesztek a stabilitás érdekében
 
 ## 👥 Csapatunk
 A projektet öt **BME-s hallgató** fejleszti közösen a **Projekt Laboratórium** tárgy keretében. Célunk egy izgalmas, stratégiai döntéseket igénylő szimulációs játék létrehozása, amely bemutatja a biológiai rendszerek és a játékmechanikák összefonódását.
-
-
